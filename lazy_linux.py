@@ -6,12 +6,9 @@ import json
 import time
 from pprint import pprint
 		   
-# print list_of_files[::-1]
-
-
 path_to_gallery = "/path_to_be_listed/"
 
-
+# This sorts the filename by the file creation date
 def getfiles(dirpath):
     a = [s for s in os.listdir(dirpath)
          if os.path.isfile(os.path.join(dirpath, s))]
@@ -21,7 +18,7 @@ def getfiles(dirpath):
 
 
 media_filenames = getfiles(path_to_gallery)
-
+# Inverst the list
 media_filenames.reverse()
 	
 	
