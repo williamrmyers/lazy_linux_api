@@ -32,7 +32,7 @@ print ""
 
 # print [list_of_files]
 
-print row_json
+print '{ "filenames" : %r }' %row_json
 
 
 
