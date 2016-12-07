@@ -5,9 +5,7 @@ import os
 import json
 import time
 from pprint import pprint
-
-# list_of_files=(os.listdir('/home/williamrmyers/williamrmyers/pointless/gallery_images'))
-			   
+		   
 # print list_of_files[::-1]
 
 
