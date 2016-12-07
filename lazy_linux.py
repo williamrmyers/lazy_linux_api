@@ -41,7 +41,8 @@ print row_json
 # print '["tumblr_mo7se6Thru1qcb5fko1_500.gif","UyjTj4x.gif","Trey Ratcliff - China 2011 - A Great Wall at Sunset-X2.jpg","QHmEdI9.gif","PSaJyLu.gif","LhJ8LE0.gif","IYknwGT.jpg","5yIVbBy.gif","22 - Joker 1.gif","16 - Batman The Dark Knight Returns 1.gif","1431147101014.jpg","1394906502467.png","1387865643740.jpg"]'
 
 
-
+# This is a better output format, to conform to the standard.
+# print '{ "filenames" :["tumblr_mo7se6Thru1qcb5fko1_500.gif","UyjTj4x.gif","Trey Ratcliff - China 2011 - A Great Wall at Sunset-X2.jpg","QHmEdI9.gif","PSaJyLu.gif","LhJ8LE0.gif","IYknwGT.jpg","5yIVbBy.gif","22 - Joker 1.gif","16 - Batman The Dark Knight Returns 1.gif","1431147101014.jpg","1394906502467.png","1387865643740.jpg"]}'
 
 
 
