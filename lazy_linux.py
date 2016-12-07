@@ -11,7 +11,7 @@ from pprint import pprint
 # print list_of_files[::-1]
 
 
-path_to_gallery = "/home/williamrmyers/williamrmyers/pointless/gallery_images/"
+path_to_gallery = "/path_to_be_listed/"
 
 
 def getfiles(dirpath):
